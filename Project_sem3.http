@@ -1,0 +1,6 @@
+@Project_sem3_HostAddress = http://localhost:5102
+
+GET {{Project_sem3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

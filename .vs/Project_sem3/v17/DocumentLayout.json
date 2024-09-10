@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\repositories\\middlecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:repositories\\middlecheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\mobilerepo\\mbproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:mobilerepo\\mbproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:repositories\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\controllers\\mbproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:controllers\\mbproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|e:\\c_sharp_project\\asp_api\\project_sem3\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F0BB8F9-1A03-4E3E-8F5B-72BFC0AB525C}|Project_sem3.csproj|solutionrelative:models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiddleCheck.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Repositories\\MiddleCheck.cs",
+              "RelativeDocumentMoniker": "Repositories\\MiddleCheck.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Repositories\\MiddleCheck.cs",
+              "RelativeToolTip": "Repositories\\MiddleCheck.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwDIAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T11:49:19.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T17:07:46.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAAAIAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:07:42.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Repositories\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepo.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Repositories\\ProductRepo.cs",
+              "RelativeToolTip": "Repositories\\ProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:53:46.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MbProductRepo.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\MobileRepo\\MbProductRepo.cs",
+              "RelativeDocumentMoniker": "MobileRepo\\MbProductRepo.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\MobileRepo\\MbProductRepo.cs",
+              "RelativeToolTip": "MobileRepo\\MbProductRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:53:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BrandController.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:49:33.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MbProductController.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Controllers\\MbProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MbProductController.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Controllers\\MbProductController.cs",
+              "RelativeToolTip": "Controllers\\MbProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T14:39:04.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "Models\\Admin.cs",
+              "ToolTip": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\Models\\Admin.cs",
+              "RelativeToolTip": "Models\\Admin.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvyEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T07:24:13.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

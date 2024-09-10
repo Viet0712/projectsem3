@@ -1,0 +1,1237 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\AdminImage\\12495010_929588600465379_3539789834888459949_n - Copy_638545016833077650.jpg",
+      "PackagePath": "staticwebassets\\AdminImage\\12495010_929588600465379_3539789834888459949_n - Copy_638545016833077650.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\AdminImage\\null.jpg",
+      "PackagePath": "staticwebassets\\AdminImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\1280px-Tempo_(Marke)_logo.svg_638559052504433293.png",
+      "PackagePath": "staticwebassets\\BrandImage\\1280px-Tempo_(Marke)_logo.svg_638559052504433293.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\305651406_499530922176693_5484715344267913126_n_638561718946548687.png",
+      "PackagePath": "staticwebassets\\BrandImage\\305651406_499530922176693_5484715344267913126_n_638561718946548687.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\630760106208067.Y3JvcCwzODM1LDMwMDAsODUsMA_638560743730467990.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\630760106208067.Y3JvcCwzODM1LDMwMDAsODUsMA_638560743730467990.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\72080641882-1604042516889_638559039079214196.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\72080641882-1604042516889_638559039079214196.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\838_logo_vuong1646733203_638560712326351486.png",
+      "PackagePath": "staticwebassets\\BrandImage\\838_logo_vuong1646733203_638560712326351486.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\Kotex_logo_san_pham_638559037123132586.png",
+      "PackagePath": "staticwebassets\\BrandImage\\Kotex_logo_san_pham_638559037123132586.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\Logo_Vinamilk_(2023)_638559012631074651.png",
+      "PackagePath": "staticwebassets\\BrandImage\\Logo_Vinamilk_(2023)_638559012631074651.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\Logo_th_group_638559013761332945.png",
+      "PackagePath": "staticwebassets\\BrandImage\\Logo_th_group_638559013761332945.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\NEPTUNE_638558998257538786.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\NEPTUNE_638558998257538786.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\Sunsilk-Symbol_638559042090116836.png",
+      "PackagePath": "staticwebassets\\BrandImage\\Sunsilk-Symbol_638559042090116836.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\Zott-Logo.svg_638560706110133382.png",
+      "PackagePath": "staticwebassets\\BrandImage\\Zott-Logo.svg_638560706110133382.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\acecook_638559045116296542.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\acecook_638559045116296542.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\cholimex_food-logo-brandlogos.net__638559034472149780.png",
+      "PackagePath": "staticwebassets\\BrandImage\\cholimex_food-logo-brandlogos.net__638559034472149780.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\cocacola_Logo_638545055027403731.png",
+      "PackagePath": "staticwebassets\\BrandImage\\cocacola_Logo_638545055027403731.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\dove_638559040739646505.png",
+      "PackagePath": "staticwebassets\\BrandImage\\dove_638559040739646505.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\durex_638559047388042518.png",
+      "PackagePath": "staticwebassets\\BrandImage\\durex_638559047388042518.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\ensure_638559015166609052.png",
+      "PackagePath": "staticwebassets\\BrandImage\\ensure_638559015166609052.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\fami-1503202111205_638560751406188573.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\fami-1503202111205_638560751406188573.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\footer-fami_638560750936838806.png",
+      "PackagePath": "staticwebassets\\BrandImage\\footer-fami_638560750936838806.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\gkitchen_638559006804972481.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\gkitchen_638559006804972481.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\images lifebuoy_638559039861552648.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\images lifebuoy_638559039861552648.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\images_638545629885429883.png",
+      "PackagePath": "staticwebassets\\BrandImage\\images_638545629885429883.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\images_638559051044429777.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\images_638559051044429777.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\kisspng-clear-unilever-dandruff-scalp-hair-5af57feb01bb62.3107509415260385070071_638559041465488652.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\kisspng-clear-unilever-dandruff-scalp-hair-5af57feb01bb62.3107509415260385070071_638559041465488652.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo aboot_638560680762111605.png",
+      "PackagePath": "staticwebassets\\BrandImage\\logo aboot_638560680762111605.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo aboot_638560681987236106.png",
+      "PackagePath": "staticwebassets\\BrandImage\\logo aboot_638560681987236106.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo betagen_638559787849998820.png",
+      "PackagePath": "staticwebassets\\BrandImage\\logo betagen_638559787849998820.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo yakult_638559768326577675.png",
+      "PackagePath": "staticwebassets\\BrandImage\\logo yakult_638559768326577675.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo-nestle-1_638555543002321665.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\logo-nestle-1_638555543002321665.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\logo-vinamit-den-1988-300x300_638559011750041688.png",
+      "PackagePath": "staticwebassets\\BrandImage\\logo-vinamit-den-1988-300x300_638559011750041688.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\meiji_638559862514478389.png",
+      "PackagePath": "staticwebassets\\BrandImage\\meiji_638559862514478389.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\null.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\png-clipart-knorr-logo-french-onion-soup-others-soup-food_638559036030056296.png",
+      "PackagePath": "staticwebassets\\BrandImage\\png-clipart-knorr-logo-french-onion-soup-others-soup-food_638559036030056296.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\png-transparent-ajinomoto-global-hd-logo-thumbnail_638559035142740578.png",
+      "PackagePath": "staticwebassets\\BrandImage\\png-transparent-ajinomoto-global-hd-logo-thumbnail_638559035142740578.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\pngegg (1)_638558995695074924.png",
+      "PackagePath": "staticwebassets\\BrandImage\\pngegg (1)_638558995695074924.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\pngegg_638558994715412368.png",
+      "PackagePath": "staticwebassets\\BrandImage\\pngegg_638558994715412368.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\pngwing.com_638559009714201377.png",
+      "PackagePath": "staticwebassets\\BrandImage\\pngwing.com_638559009714201377.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\rt0t9kjg8h6g2sqomh3o8g1iu7_638559008166231017.png",
+      "PackagePath": "staticwebassets\\BrandImage\\rt0t9kjg8h6g2sqomh3o8g1iu7_638559008166231017.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\tai-tro-pho-mai-con-bo-cuoi_s2727_638560736010923443.png",
+      "PackagePath": "staticwebassets\\BrandImage\\tai-tro-pho-mai-con-bo-cuoi_s2727_638560736010923443.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\vg-15831176957661073999454_638559028208179866.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\vg-15831176957661073999454_638559028208179866.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\BrandImage\\vintage-pepsi-logo-01_638545054785316322.jpg",
+      "PackagePath": "staticwebassets\\BrandImage\\vintage-pepsi-logo-01_638545054785316322.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\0005500_socola-kitkat-hop-6-thanh-102g_638555545871738068.png",
+      "PackagePath": "staticwebassets\\ProductImage\\0005500_socola-kitkat-hop-6-thanh-102g_638555545871738068.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\0005500_socola-kitkat-hop-6-thanh-102g_638564754379536365.png",
+      "PackagePath": "staticwebassets\\ProductImage\\0005500_socola-kitkat-hop-6-thanh-102g_638564754379536365.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\11-15371072_638561618638346885.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\11-15371072_638561618638346885.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\11-15371072_638563838435788401.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\11-15371072_638563838435788401.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\12-chai-sua-trai-cay-nutriboost-huong-cam-297ml-202310021702409916_638560745099006911.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\12-chai-sua-trai-cay-nutriboost-huong-cam-297ml-202310021702409916_638560745099006911.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\14-620x620-6_638561627761701148.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\14-620x620-6_638561627761701148.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638563972676885701.png",
+      "PackagePath": "staticwebassets\\ProductImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638563972676885701.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\2_qua_chuoi_638561594706790052.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\2_qua_chuoi_638561594706790052.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\2_qua_chuoi_638562967614727803.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\2_qua_chuoi_638562967614727803.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560713629466511.png",
+      "PackagePath": "staticwebassets\\ProductImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560713629466511.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560717503352605.png",
+      "PackagePath": "staticwebassets\\ProductImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560717503352605.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\64494775-4b16-4a64-9446-aab291fea67c_638555545871583749.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\64494775-4b16-4a64-9446-aab291fea67c_638555545871583749.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\Meat_boxes_phone_ready_638546585997621570.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\Meat_boxes_phone_ready_638546585997621570.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\NSPN1_638559818460267239.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\NSPN1_638559818460267239.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\NSPN2_638559818460193545.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\NSPN2_638559818460193545.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\NSPN3_638559818460248492.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\NSPN3_638559818460248492.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\Pepsi-Chai-1500ml_638546166362720632.png",
+      "PackagePath": "staticwebassets\\ProductImage\\Pepsi-Chai-1500ml_638546166362720632.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH DUA_638559606065931246.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH DUA_638559606065931246.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH DUA_638559736322041537.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH DUA_638559736322041537.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH SAU RIENG_638559606065662284.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH SAU RIENG_638559606065662284.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH SAU RIENG_638559736321840564.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH SAU RIENG_638559736321840564.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TAO SORI_638559606065443081.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TAO SORI_638559606065443081.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TAO SORI_638559735975573156.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TAO SORI_638559735975573156.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TAO SORI_638559736321709791.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TAO SORI_638559736321709791.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TRAI CAY_638559606065364193.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TRAI CAY_638559606065364193.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TRAI CAY_638559735975504101.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TRAI CAY_638559735975504101.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH TRAI CAY_638559736321619298.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH TRAI CAY_638559736321619298.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH VIET QUAT_638559606065527096.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH VIET QUAT_638559606065527096.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\TH VIET QUAT_638559736321772401.png",
+      "PackagePath": "staticwebassets\\ProductImage\\TH VIET QUAT_638559736321772401.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\VNM DAU_638559600861287545.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\VNM DAU_638559600861287545.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\VNM LUU_638559600861220503.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\VNM LUU_638559600861220503.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\VNM NEP CAM_638559600861253660.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\VNM NEP CAM_638559600861253660.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\VNM NHA DAM_638559600861397702.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\VNM NHA DAM_638559600861397702.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\VNM TRAI CAY_638559600861195996.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\VNM TRAI CAY_638559600861195996.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\YAKULT 1_638559779964900204.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\YAKULT 1_638559779964900204.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\YAKULT 4_638559779965041289.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\YAKULT 4_638559779965041289.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg_638560684232443436.png",
+      "PackagePath": "staticwebassets\\ProductImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg_638560684232443436.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\cocacola_Logo_638549620778606354.png",
+      "PackagePath": "staticwebassets\\ProductImage\\cocacola_Logo_638549620778606354.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\download_638560488717484442.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\download_638560488717484442.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\images (1)_638561558492813829.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\images (1)_638561558492813829.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\images_638546585997207565.png",
+      "PackagePath": "staticwebassets\\ProductImage\\images_638546585997207565.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\images_638563367198073292.png",
+      "PackagePath": "staticwebassets\\ProductImage\\images_638563367198073292.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\images_638563836496583673.png",
+      "PackagePath": "staticwebassets\\ProductImage\\images_638563836496583673.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\images_638563837284195720.png",
+      "PackagePath": "staticwebassets\\ProductImage\\images_638563837284195720.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\khoai-tay-202312260932491620_638562974253856322.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\khoai-tay-202312260932491620_638562974253856322.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\licensed-image_638561590843415925.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\licensed-image_638561590843415925.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-chua-th-true-yogurt-vi-tu-nhien-100g-202106042226021680_638559596471336282.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-chua-th-true-yogurt-vi-tu-nhien-100g-202106042226021680_638559596471336282.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-chua-th-true-yogurt-vi-tu-nhien-100g-202106042226033020_638559596471370280.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-chua-th-true-yogurt-vi-tu-nhien-100g-202106042226033020_638559596471370280.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647168618_638559586408631114.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647168618_638559586408631114.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647168618_638559591566928172.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647168618_638559591566928172.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647171351_638559586408686842.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-chua-vinamilk-it-duong-100g-202303171647171351_638559586408686842.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-co-duong-th-true-milk-180ml-202104091502361820_638560700728377102.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-co-duong-th-true-milk-180ml-202104091502361820_638560700728377102.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-100-sua-tuoi-180ml-202310051143337875_638560691935539109.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-100-sua-tuoi-180ml-202310051143337875_638560691935539109.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-green-farm-110ml-202311011006446448_638560691935483716.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-green-farm-110ml-202311011006446448_638560691935483716.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-socola-th-true-milk-110ml-202104182344050961_638560700728531187.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-sua-tuoi-tiet-trung-socola-th-true-milk-110ml-202104182344050961_638560700728531187.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-vang-sua-classic-monte-55g-202312150858565640_638560707675571265.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-vang-sua-classic-monte-55g-202312150858565640_638560707675571265.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-vang-sua-monte-socola-55g-202308041557185746_638560707675492222.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-vang-sua-monte-socola-55g-202308041557185746_638560707675492222.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560707675441284.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560707675441284.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560725883063689.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560725883063689.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hop-vang-sua-vani-monte-55g-201907290829140933_638560707675654006.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hop-vang-sua-vani-monte-55g-201907290829140933_638560707675654006.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-4-hu-vang-sua-uong-zott-vi-schoko-monte-drink-95ml-202110231645018436_638560707675529783.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-4-hu-vang-sua-uong-zott-vi-schoko-monte-drink-95ml-202110231645018436_638560707675529783.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\loc-6-hop-sua-dau-nanh-fami-sua-dua-200ml-202405271555138331_638560752458963488.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\loc-6-hop-sua-dau-nanh-fami-sua-dua-200ml-202405271555138331_638560752458963488.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\meiji-growing-up-formula-800g-1-3-tuoi_638559865557554663.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\meiji-growing-up-formula-800g-1-3-tuoi_638559865557554663.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\meiji-infant-formula-800g-0-12-thang_638559865557562769.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\meiji-infant-formula-800g-0-12-thang_638559865557562769.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\nho-mau-don-202307290808002390_638563867894707381.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nho-mau-don-202307290808002390_638563867894707381.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\null.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\nuoc-ngot-coca-cola-chai-390ml-202205101350020747_638560490373071612.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nuoc-ngot-coca-cola-chai-390ml-202205101350020747_638560490373071612.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\nuoc-ngot-coca-cola-nhat-500ml-sieu-thi-nhat-ban-japana-2_638560490373048626.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\nuoc-ngot-coca-cola-nhat-500ml-sieu-thi-nhat-ban-japana-2_638560490373048626.jpeg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\nuoc-ngot-pepsi-cola-lon-320ml-202303151108006292_638546166362592334.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nuoc-ngot-pepsi-cola-lon-320ml-202303151108006292_638546166362592334.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\nuoc-ngot-pepsi-cola-lon-320ml-202303151108006292_638560488717265827.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\nuoc-ngot-pepsi-cola-lon-320ml-202303151108006292_638560488717265827.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\orange flavor_638559806305992765.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\orange flavor_638559806305992765.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\orange flavor_638559812009798797.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\orange flavor_638559812009798797.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\original flavor_638559806306086874.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\original flavor_638559806306086874.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\original flavor_638559812009891600.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\original flavor_638559812009891600.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot1_638559851697730925.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot1_638559851697730925.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot1_638559854468199212.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot1_638559854468199212.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot2_638559854468167884.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot2_638559854468167884.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot4_638559851697709096.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot4_638559851697709096.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot4_638559854468186374.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot4_638559854468186374.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot5_638559851697679965.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot5_638559851697679965.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot7_638559851697650512.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot7_638559851697650512.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\ot7_638559854468148151.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\ot7_638559854468148151.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\pho-mai-lat-zott-sandwich-goi-200g-12-lat-201912091055197680_638560732247278311.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\pho-mai-lat-zott-sandwich-goi-200g-12-lat-201912091055197680_638560732247278311.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-120g-8-mieng-202406241422355794_638560736911606714.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-120g-8-mieng-202406241422355794_638560736911606714.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\pineapple flavor_638559806306070113.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\pineapple flavor_638559806306070113.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\pineapple flavor_638559812009864532.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\pineapple flavor_638559812009864532.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-0-12-thang-meiji-0-1-year-old-infant-formula-ezcube-540g_638559865557537458.png",
+      "PackagePath": "staticwebassets\\ProductImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-0-12-thang-meiji-0-1-year-old-infant-formula-ezcube-540g_638559865557537458.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-1-3-tuoi-meiji-1-3-years-old-growing-up-formula-ezcube-560g_638559865557519693.png",
+      "PackagePath": "staticwebassets\\ProductImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-1-3-tuoi-meiji-1-3-years-old-growing-up-formula-ezcube-560g_638559865557519693.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\shutterstock_390988804-1-1024x682 (1)_638561557108745204.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\shutterstock_390988804-1-1024x682 (1)_638561557108745204.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\strawberry flavor_638559806306059686.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\strawberry flavor_638559806306059686.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\strawberry flavor_638559812009816448.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\strawberry flavor_638559812009816448.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua chua khong duong_638559586408510563.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua chua khong duong_638559586408510563.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-abbott-pediasure-1-10-tuoi-850g_638560684232464357.png",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-abbott-pediasure-1-10-tuoi-850g_638560684232464357.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bau-meiji-mama-milk-350g (2)_638560674160312915.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bau-meiji-mama-milk-350g (2)_638560674160312915.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bau-meiji-mama-milk-350g (3)_638560674160238431.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bau-meiji-mama-milk-350g (3)_638560674160238431.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bau-meiji-mama-milk-350g_638560661074337179.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bau-meiji-mama-milk-350g_638560661074337179.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bau-meiji-mama-milk-350g_638560674160218927.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bau-meiji-mama-milk-350g_638560674160218927.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040206849_638560677639923651.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040206849_638560677639923651.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560677639874006.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560677639874006.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560725461762637.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560725461762637.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-dinh-duong-vinamilk-star-co-duong-bich-220ml-201912311532537155_638560691935608374.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-dinh-duong-vinamilk-star-co-duong-bich-220ml-201912311532537155_638560691935608374.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-co-duong-th-true-milk-hop-1-lit-202211231533101889_638560700728407721.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-co-duong-th-true-milk-hop-1-lit-202211231533101889_638560700728407721.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-bich-220ml-202404021044013759_638560691935655939.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-bich-220ml-202404021044013759_638560691935655939.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-hop-1-lit-202309061113328589_638560691935457917.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-hop-1-lit-202309061113328589_638560691935457917.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-it-duong-th-true-milk-hop-1-lit-202104081703261728_638560700728362822.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-it-duong-th-true-milk-hop-1-lit-202104081703261728_638560700728362822.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-it-duong-th-true-milk-hop-1-lit-202104081703261728_638560724941871717.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-it-duong-th-true-milk-hop-1-lit-202104081703261728_638560724941871717.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sua-tuoi-tiet-trung-th-true-milk-khong-duong-bich-220ml-201912101431268173_638560700728394812.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sua-tuoi-tiet-trung-th-true-milk-khong-duong-bich-220ml-201912101431268173_638560700728394812.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\sữa chua vinamilk_638559586408304541.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\sữa chua vinamilk_638559586408304541.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\th co duong_638559596471250748.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\th co duong_638559596471250748.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\th it duong_638559596471282345.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\th it duong_638559596471282345.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\thi-heo-12141562_638561608510535520.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\thi-heo-12141562_638561608510535520.jpeg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\thi-heo-12141562_638561609994396526.jpeg",
+      "PackagePath": "staticwebassets\\ProductImage\\thi-heo-12141562_638561609994396526.jpeg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g (2)_638560677640087768.png",
+      "PackagePath": "staticwebassets\\ProductImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g (2)_638560677640087768.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g_638560677639998244.png",
+      "PackagePath": "staticwebassets\\ProductImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g_638560677639998244.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hat-oc-cho-hoff_638560713629433741.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hat-oc-cho-hoff_638560713629433741.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hat-oc-cho-hoff_638560717503409829.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hat-oc-cho-hoff_638560717503409829.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hff-hat-de_638560713629509822.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hff-hat-de_638560713629509822.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hff-hat-de_638560717503315723.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hff-hat-de_638560717503315723.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hff-sua-non-loc-4-hu_638560713629531662.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hff-sua-non-loc-4-hu_638560713629531662.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vang-sua-hff-sua-non-loc-4-hu_638560717503288708.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vang-sua-hff-sua-non-loc-4-hu_638560717503288708.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vi tu nhien_638559596471203494.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\vi tu nhien_638559596471203494.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vinamilk it duong_638559586408551399.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\vinamilk it duong_638559586408551399.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vnm co duong_638559591566603442.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vnm co duong_638559591566603442.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vnm it duong_638559591566747732.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vnm it duong_638559591566747732.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vnm khong duong_638559591566473233.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vnm khong duong_638559591566473233.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\vnm1_638559591566965897.png",
+      "PackagePath": "staticwebassets\\ProductImage\\vnm1_638559591566965897.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\z4809607831683_d4cf434251a95d43b7bdfe4da59eaec1_638560490373134760.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\z4809607831683_d4cf434251a95d43b7bdfe4da59eaec1_638560490373134760.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\z5559589125802_6fe31f3f45a91d8e8a1f49afa9374fc7_638546585997576500.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\z5559589125802_6fe31f3f45a91d8e8a1f49afa9374fc7_638546585997576500.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\z5559592646524_10f33da76f63e02d17fb0d07b5b60756_638546585997339224.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\z5559592646524_10f33da76f63e02d17fb0d07b5b60756_638546585997339224.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\z5561947047392_de15feb0570cfbef1d15f406fa87788f_638546166362763411.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\z5561947047392_de15feb0570cfbef1d15f406fa87788f_638546166362763411.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\ProductImage\\z5561947047392_de15feb0570cfbef1d15f406fa87788f_638560488717448802.jpg",
+      "PackagePath": "staticwebassets\\ProductImage\\z5561947047392_de15feb0570cfbef1d15f406fa87788f_638560488717448802.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\-202401041025234478_638561614139915821.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\-202401041025234478_638561614139915821.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\-202401041025234478_638561615801559235.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\-202401041025234478_638561615801559235.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\2_qua_chuoi_638562974977475279.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\2_qua_chuoi_638562974977475279.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560715642448641.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560715642448641.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560718131070467.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\520x600-484-2020-11-49422-69332-large_mobile-vang-sua-hff-vani-loc-4-hu_638560718131070467.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\NSPN1_638559821059074694.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\NSPN1_638559821059074694.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\NSPN2_638559823266533226.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\NSPN2_638559823266533226.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\NSPN3_638559822275624062.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\NSPN3_638559822275624062.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\Pepsi-Chai-1500ml_638549568292526959.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\Pepsi-Chai-1500ml_638549568292526959.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\Pepsi-Chai-1500ml_638549573012274474.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\Pepsi-Chai-1500ml_638549573012274474.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\Pepsi-Chai-1500ml_638549618561046321.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\Pepsi-Chai-1500ml_638549618561046321.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\Pepsi-Chai-1500ml_638563871118899403.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\Pepsi-Chai-1500ml_638563871118899403.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\Pepsi-Chai-1500ml_638564841258326469.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\Pepsi-Chai-1500ml_638564841258326469.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\TH DUA_638559738863140344.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\TH DUA_638559738863140344.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\TH SAU RIENG_638559738352295888.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\TH SAU RIENG_638559738352295888.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\TH TAO SORI_638559740335660707.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\TH TAO SORI_638559740335660707.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\TH TRAI CAY_638559737768657565.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\TH TRAI CAY_638559737768657565.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\TH VIET QUAT_638559739430893318.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\TH VIET QUAT_638559739430893318.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM DAU_638559733267239749.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM DAU_638559733267239749.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM LUU_638559697379010823.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM LUU_638559697379010823.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM NEP CAM_638559735054302680.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM NEP CAM_638559735054302680.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM NHA DAM_638559734179174499.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM NHA DAM_638559734179174499.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM TRAI CAY_638559696385462035.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM TRAI CAY_638559696385462035.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\VNM TRAI CAY_638559731785146350.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\VNM TRAI CAY_638559731785146350.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\YAKULT 1_638559781743889558.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\YAKULT 1_638559781743889558.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\YAKULT 4_638559782767416953.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\YAKULT 4_638559782767416953.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg (1)_638560685547420174.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg (1)_638560685547420174.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg (2)_638560686397635761.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\abbott-pediasure-huong-vani-1-10-tuoi-1-6kg (2)_638560686397635761.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ba-roi-heo-nhap-khau-5kg-202406041134280557_638561611543642166.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ba-roi-heo-nhap-khau-5kg-202406041134280557_638561611543642166.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\cai-be-xanh-400g-202406281506145882_638561559323803673.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\cai-be-xanh-400g-202406281506145882_638561559323803673.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\canh-ga-202403011642284355_638561619947978228.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\canh-ga-202403011642284355_638561619947978228.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\canh-toi-ga-202403011644115832_638561620690526099.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\canh-toi-ga-202403011644115832_638561620690526099.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\chuoi-cau-trai-tu-40g-tro-len-202404171126598972_638561597260781861.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\chuoi-cau-trai-tu-40g-tro-len-202404171126598972_638561597260781861.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\chuoi-sap-giao-ngau-nhien-song-hoac-chin-202306240744344278_638561595988035186.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\chuoi-sap-giao-ngau-nhien-song-hoac-chin-202306240744344278_638561595988035186.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\coca cocal 500ml_638559518319450535.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\coca cocal 500ml_638559518319450535.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\coca cocal 500ml_638559518379532776.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\coca cocal 500ml_638559518379532776.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\coca cocal 500ml_638559518423044128.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\coca cocal 500ml_638559518423044128.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\coca cocal 500ml_638559519043736309.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\coca cocal 500ml_638559519043736309.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\coca cocal 500ml_638559557363213002.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\coca cocal 500ml_638559557363213002.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\cu-cai-trang-202312251008088820_638561585693006553.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\cu-cai-trang-202312251008088820_638561585693006553.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\cu-den-202312281013364195_638561586286032153.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\cu-den-202312281013364195_638561586286032153.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\download_638549618417539271.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\download_638549618417539271.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\faa1846f159de2c3bb8c_638561593347598741.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\faa1846f159de2c3bb8c_638561593347598741.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\khoai-tay-202312260932491620_638561584891777272.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\khoai-tay-202312260932491620_638561584891777272.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-4-hop-sua-tuoi-tiet-trung-co-duong-th-true-milk-180ml-202104091502361820_638560701509067410.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-4-hop-sua-tuoi-tiet-trung-co-duong-th-true-milk-180ml-202104091502361820_638560701509067410.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-green-farm-110ml-202311011006446448_638560693503574302.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-4-hop-sua-tuoi-tiet-trung-it-duong-vinamilk-green-farm-110ml-202311011006446448_638560693503574302.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-4-hop-vang-sua-classic-monte-55g-202312150858565640_638560708942324771.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-4-hop-vang-sua-classic-monte-55g-202312150858565640_638560708942324771.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-4-hop-vang-sua-monte-socola-55g-202308041557185746_638560709367288762.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-4-hop-vang-sua-monte-socola-55g-202308041557185746_638560709367288762.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560708343409148.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-4-hop-vang-sua-monte-vani-55g-202307200908385984_638560708343409148.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\loc-6-chai-sua-trai-cay-nutriboost-huong-dau-1-lit-202103290213130900_638560747794046705.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\loc-6-chai-sua-trai-cay-nutriboost-huong-dau-1-lit-202103290213130900_638560747794046705.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ma-dui-ga-cat-san-202403011940357311_638561621389470731.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ma-dui-ga-cat-san-202403011940357311_638561621389470731.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\meiji-growing-up-formula-800g-1-3-tuoi_638560654070857079.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\meiji-growing-up-formula-800g-1-3-tuoi_638560654070857079.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\meiji-infant-formula-800g-0-12-thang_638560652710282650.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\meiji-infant-formula-800g-0-12-thang_638560652710282650.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\nho-mau-don-202307290808002390_638561592320800858.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\nho-mau-don-202307290808002390_638561592320800858.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\null.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\orange flavor_638559809396895911.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\orange flavor_638559809396895911.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\orange flavor_638559813025025037.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\orange flavor_638559813025025037.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\original flavor_638559810531898352.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\original flavor_638559810531898352.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\original flavor_638559813952644990.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\original flavor_638559813952644990.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot1_638559854172501777.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot1_638559854172501777.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot2_638559857661549144.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot2_638559857661549144.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot3_638559857001613708.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot3_638559857001613708.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot4_638559855532061194.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot4_638559855532061194.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot5_638559856323036587.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot5_638559856323036587.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot6_638559859884415192.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot6_638559859884415192.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\ot7_638559859208163198.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\ot7_638559859208163198.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-lat-con-bo-cuoi-light-goi-200g-202112161301261265_638560739863518180.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-lat-con-bo-cuoi-light-goi-200g-202112161301261265_638560739863518180.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-lat-zott-burger-goi-200g-12-lat-201912091051467560_638560733534773242.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-lat-zott-burger-goi-200g-12-lat-201912091051467560_638560733534773242.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-lat-zott-sandwich-goi-200g-12-lat-201912091055188790 (1)_638560733152966999.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-lat-zott-sandwich-goi-200g-12-lat-201912091055188790 (1)_638560733152966999.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-vi-sua-con-bo-cuoi-le-cube-goi-78g-15-vien-202306022217015546_638560737483696918.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-vi-sua-con-bo-cuoi-le-cube-goi-78g-15-vien-202306022217015546_638560737483696918.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-120g-8-mieng-202406241422355794_638560738102859888.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-120g-8-mieng-202406241422355794_638560738102859888.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-224g-16-mieng-202406241418483014_638560738983265219.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pho-mai-vi-truyen-thong-con-bo-cuoi-hop-224g-16-mieng-202406241418483014_638560738983265219.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pineapple flavor_638559810143598629.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pineapple flavor_638559810143598629.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\pineapple flavor_638559813672024562.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\pineapple flavor_638559813672024562.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\rau-den-450g-500g-202404090953123139_638561583607575407.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\rau-den-450g-500g-202404090953123139_638561583607575407.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\rau-muong-hat-450g-500g-202404090954536611_638561582881022673.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\rau-muong-hat-450g-500g-202404090954536611_638561582881022673.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-0-12-thang-meiji-0-1-year-old-infant-formula-ezcube-540g_638560655322519877.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-0-12-thang-meiji-0-1-year-old-infant-formula-ezcube-540g_638560655322519877.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-1-3-tuoi-meiji-1-3-years-old-growing-up-formula-ezcube-560g_638560656558232846.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\san-pham-dinh-duong-cong-thuc-cho-tre-tu-1-3-tuoi-meiji-1-3-years-old-growing-up-formula-ezcube-560g_638560656558232846.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\strawberry flavor_638559809775028700.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\strawberry flavor_638559809775028700.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\strawberry flavor_638559813323194668.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\strawberry flavor_638559813323194668.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-bau-meiji-mama-milk-350g_638560673894056182.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-bau-meiji-mama-milk-350g_638560673894056182.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560678253275222.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-bot-pha-san-ensure-original-vani-chai-237ml-202407031040215558_638560678253275222.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-dau-nanh-fami-canxi-bich-200ml-202405271649438601_638560754607378870.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-dau-nanh-fami-canxi-bich-200ml-202405271649438601_638560754607378870.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-dau-nanh-nguyen-chat-fami-bich-200ml-202405271122427032_638560753988208177.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-dau-nanh-nguyen-chat-fami-bich-200ml-202405271122427032_638560753988208177.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-dau-nanh-nguyen-chat-fami-hop-1-lit-202405271106433143_638560753504960242.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-dau-nanh-nguyen-chat-fami-hop-1-lit-202405271106433143_638560753504960242.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-dinh-duong-huong-dau-vinamilk-a-d3-bich-220ml-202401241352579877_638560697501714186.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-dinh-duong-huong-dau-vinamilk-a-d3-bich-220ml-202401241352579877_638560697501714186.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-dinh-duong-vinamilk-star-co-duong-bich-220ml-201912311532537155_638560698216313617.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-dinh-duong-vinamilk-star-co-duong-bich-220ml-201912311532537155_638560698216313617.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-tiet-trung-nutriboost-beauty-huong-dao-chai-220ml-201908071651523626_638560747111471127.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-tiet-trung-nutriboost-beauty-huong-dao-chai-220ml-201908071651523626_638560747111471127.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-trai-cay-nutriboost-huong-banh-quy-kem-297ml-202307291744096359_638560745779686594.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-trai-cay-nutriboost-huong-banh-quy-kem-297ml-202307291744096359_638560745779686594.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-trai-cay-nutriboost-huong-cam-297ml-202202122134380628_638560746360351175.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-trai-cay-nutriboost-huong-cam-297ml-202202122134380628_638560746360351175.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-th-true-milk-hop-1-lit-202211231533101889_638560702971664096.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-th-true-milk-hop-1-lit-202211231533101889_638560702971664096.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-bich-220ml-202404021044013759_638560694914239240.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-bich-220ml-202404021044013759_638560694914239240.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-hop-1-lit-202309061113328589_638560696355394666.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-tuoi-tiet-trung-co-duong-vinamilk-100-sua-tuoi-hop-1-lit-202309061113328589_638560696355394666.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\sua-tuoi-tiet-trung-th-true-milk-khong-duong-bich-220ml-201912101431268173_638560704307300927.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\sua-tuoi-tiet-trung-th-true-milk-khong-duong-bich-220ml-201912101431268173_638560704307300927.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\suon-cot-let-202312251618593147_638561612562246721.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\suon-cot-let-202312251618593147_638561612562246721.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\suon-non-heo-202402011712282768_638561613309790787.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\suon-non-heo-202402011712282768_638561613309790787.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\tai-tro-pho-mai-con-bo-cuoi_s2727_638562968230656197.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\tai-tro-pho-mai-con-bo-cuoi_s2727_638562968230656197.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\th co duong_638559638916817651.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\th co duong_638559638916817651.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\th it duong_638559639334486595.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\th it duong_638559639334486595.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g_638560678692950293.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\thuc-pham-dinh-duong-y-hoc-ensure-gold-850g_638560678692950293.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hat-oc-cho-hoff_638560716205307744.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hat-oc-cho-hoff_638560716205307744.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hat-oc-cho-hoff_638560717987129223.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hat-oc-cho-hoff_638560717987129223.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hff-hat-de_638560715177487335.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hff-hat-de_638560715177487335.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hff-hat-de_638560718251615374.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hff-hat-de_638560718251615374.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hff-sua-non-loc-4-hu_638560714569641578.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hff-sua-non-loc-4-hu_638560714569641578.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vang-sua-hff-sua-non-loc-4-hu_638560718335811053.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vang-sua-hff-sua-non-loc-4-hu_638560718335811053.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vi tu nhien_638559633175735420.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vi tu nhien_638559633175735420.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vinamilk it duong_638559620776288051.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vinamilk it duong_638559620776288051.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vnm co duong_638559620046316519.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vnm co duong_638559620046316519.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\vnm khong duong_638559619200853147.png",
+      "PackagePath": "staticwebassets\\PropertiesImage\\vnm khong duong_638559619200853147.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\z4809607831683_d4cf434251a95d43b7bdfe4da59eaec1_638549621697890506.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\z4809607831683_d4cf434251a95d43b7bdfe4da59eaec1_638549621697890506.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\PropertiesImage\\z5559589125802_6fe31f3f45a91d8e8a1f49afa9374fc7_638553901120879439.jpg",
+      "PackagePath": "staticwebassets\\PropertiesImage\\z5559589125802_6fe31f3f45a91d8e8a1f49afa9374fc7_638553901120879439.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638545016264021999.png",
+      "PackagePath": "staticwebassets\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638545016264021999.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638555571934483974.png",
+      "PackagePath": "staticwebassets\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638555571934483974.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638559677393776626.png",
+      "PackagePath": "staticwebassets\\StoreImage\\14713dca-047e-4429-a3ac-2e349aeeaa9c-banner01_638559677393776626.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\StoreImage\\benh_vien_cho_ray_638545054309544368.jpg",
+      "PackagePath": "staticwebassets\\StoreImage\\benh_vien_cho_ray_638545054309544368.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\StoreImage\\null.jpg",
+      "PackagePath": "staticwebassets\\StoreImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\12495010_929588600465379_3539789834888459949_n_638564667341858459.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\12495010_929588600465379_3539789834888459949_n_638564667341858459.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\bìa sp copy_638550396039351733.png",
+      "PackagePath": "staticwebassets\\UserImage\\bìa sp copy_638550396039351733.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\bìa sp copy_638550787586863851.png",
+      "PackagePath": "staticwebassets\\UserImage\\bìa sp copy_638550787586863851.png"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\null.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\null.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4432050258552_06a6ff6e40a03028f30671f95dc08cab_638550910387580590.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4432050258552_06a6ff6e40a03028f30671f95dc08cab_638550910387580590.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4432050258552_06a6ff6e40a03028f30671f95dc08cab_638551113121399743.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4432050258552_06a6ff6e40a03028f30671f95dc08cab_638551113121399743.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684619843_bb7e883e167e48abd2358cbd35a86271_638550387225494181.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684619843_bb7e883e167e48abd2358cbd35a86271_638550387225494181.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550394605024482.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550394605024482.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550403603836756.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550403603836756.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550414180643044.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684626914_c2ae139bc9121f6d950da12d2e3cc667_638550414180643044.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684633651_0dfeee802be24670185d9aad78191f40_638550388562585217.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684633651_0dfeee802be24670185d9aad78191f40_638550388562585217.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4472684633651_0dfeee802be24670185d9aad78191f40_638550396452473082.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4472684633651_0dfeee802be24670185d9aad78191f40_638550396452473082.jpg"
+    },
+    {
+      "Id": "E:\\C_sharp_Project\\ASP_API\\Project_sem3\\wwwroot\\UserImage\\z4537500154008_41ec9ecee1a8d429883741b1eab683cc_638550910301696212.jpg",
+      "PackagePath": "staticwebassets\\UserImage\\z4537500154008_41ec9ecee1a8d429883741b1eab683cc_638550910301696212.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Project_sem3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Project_sem3.props",
+      "PackagePath": "build\\Project_sem3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Project_sem3.props",
+      "PackagePath": "buildMultiTargeting\\Project_sem3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Project_sem3.props",
+      "PackagePath": "buildTransitive\\Project_sem3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
